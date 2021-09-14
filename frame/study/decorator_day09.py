@@ -243,7 +243,6 @@ class Cat(Pet):
         print('%s的叫声是 %s  ！！' % (self._name, voice))
 
 def main():
-
     dog = Dog('小汪')
     dog.make_voice('汪汪汪')
     cat = Cat('小猫')
