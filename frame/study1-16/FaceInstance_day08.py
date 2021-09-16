@@ -10,7 +10,7 @@
 #         self.name = name
 #         self.age = age
 #
-#     def study(self, course_name):
+#     def study1-16(self, course_name):
 #         print("%s正在学习%s" % (self.name,course_name))
 #
 #     def play(self,game_name):
@@ -21,7 +21,7 @@
 #
 # def main():
 #     student1 = Student('AA',17)
-#     student1.study('python')
+#     student1.study1-16('python')
 #     student1.play('LOL')
 #
 # if __name__== '__main__':

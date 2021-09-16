@@ -19,7 +19,7 @@ python的并发编程方式：多进程、多线程、多进程+多线程
 #
 # def createMutilProcess():
 #     start = time()
-#     p1 = Process(target=task,args=('study python',))  # 开启一个进程
+#     p1 = Process(target=task,args=('study1-16 python',))  # 开启一个进程
 #     p1.start()   #开启进程
 #     p2 = Process(target=task,args=('work test',))
 #     p2.start()
@@ -61,7 +61,7 @@ python的并发编程方式：多进程、多线程、多进程+多线程
 #
 # def createMultiThread():
 #     start = time()
-#     t1=multiThread('study python')
+#     t1=multiThread('study1-16 python')
 #     t1.start()
 #
 #     t2=multiThread('work test')
